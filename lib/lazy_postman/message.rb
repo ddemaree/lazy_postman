@@ -1,3 +1,5 @@
+# Respectfully extracted from http://github.com/entp/astrotrain
+
 require 'digest/sha1'
 require 'fileutils'
 require 'tempfile'
